@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  font-family: var(--font-montserrat), var(--font-poppins), sans-serif;
+  /* background-color: black; */
+}
+
